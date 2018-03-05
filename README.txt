@@ -1,3 +1,3 @@
-Code from pluralsight course by Hendriks Swanepoel
+# React/Flux/WebPack/Firebase
 
-On github at hendrikswan/react-stack
+This may be broken or it may not...do not currently have the time to explore.
